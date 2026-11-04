@@ -1,0 +1,16 @@
+{
+ "sales": [
+  {
+   "name": "sale_id",
+   "type": "int"
+  },
+  {
+   "name": "region",
+   "type": "string"
+  },
+  {
+   "name": "amount",
+   "type": "decimal(10,2)"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "monthly_sales": [
+  {
+   "name": "month_start",
+   "type": "date"
+  },
+  {
+   "name": "sales",
+   "type": "int"
+  }
+ ]
+}

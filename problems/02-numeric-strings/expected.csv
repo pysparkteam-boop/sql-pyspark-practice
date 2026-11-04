@@ -1,0 +1,5 @@
+tx_id,customer,amount
+1,Alice,100.00
+3,Carol,250.50
+5,Eve,500.00
+7,Grace,-75.00

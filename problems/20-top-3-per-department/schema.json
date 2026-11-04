@@ -1,0 +1,38 @@
+{
+ "departments": [
+  {
+   "name": "department_id",
+   "type": "int"
+  },
+  {
+   "name": "department_name",
+   "type": "string"
+  }
+ ],
+ "employees": [
+  {
+   "name": "employee_id",
+   "type": "int"
+  },
+  {
+   "name": "first_name",
+   "type": "string"
+  },
+  {
+   "name": "department_id",
+   "type": "int"
+  },
+  {
+   "name": "salary",
+   "type": "int"
+  },
+  {
+   "name": "hire_date",
+   "type": "date"
+  },
+  {
+   "name": "manager_id",
+   "type": "int"
+  }
+ ]
+}

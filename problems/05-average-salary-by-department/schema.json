@@ -1,0 +1,42 @@
+{
+ "employees": [
+  {
+   "name": "emp_id",
+   "type": "int"
+  },
+  {
+   "name": "name",
+   "type": "string"
+  },
+  {
+   "name": "department",
+   "type": "string"
+  },
+  {
+   "name": "salary",
+   "type": "int"
+  },
+  {
+   "name": "hire_date",
+   "type": "date"
+  }
+ ],
+ "performance": [
+  {
+   "name": "perf_id",
+   "type": "int"
+  },
+  {
+   "name": "emp_id",
+   "type": "int"
+  },
+  {
+   "name": "rating",
+   "type": "int"
+  },
+  {
+   "name": "review_date",
+   "type": "date"
+  }
+ ]
+}

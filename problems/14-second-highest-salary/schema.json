@@ -1,0 +1,16 @@
+{
+ "salaries": [
+  {
+   "name": "id",
+   "type": "int"
+  },
+  {
+   "name": "employee",
+   "type": "string"
+  },
+  {
+   "name": "salary",
+   "type": "int"
+  }
+ ]
+}

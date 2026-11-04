@@ -1,0 +1,209 @@
+[
+ {
+  "n": 1,
+  "folder": "01-out-of-stock-products",
+  "title": "Find All Products That Are Out of Stock",
+  "level": "Easy",
+  "topic": "Filtering",
+  "url": "https://pyspark.in/challenges/find-all-products-that-are-out-of-stock/",
+  "twin": null
+ },
+ {
+  "n": 2,
+  "folder": "02-numeric-strings",
+  "title": "Filter Numeric Values Stored as Strings (SQL)",
+  "level": "Easy",
+  "topic": "Filtering / data cleaning",
+  "url": "https://pyspark.in/challenges/filter-numeric-values-stored-as-strings-sql/",
+  "twin": null
+ },
+ {
+  "n": 3,
+  "folder": "03-duplicate-emails",
+  "title": "Find Duplicate Emails",
+  "level": "Easy",
+  "topic": "GROUP BY + HAVING",
+  "url": "https://pyspark.in/challenges/find-duplicate-emails/",
+  "twin": null
+ },
+ {
+  "n": 4,
+  "folder": "04-customers-more-than-5-orders",
+  "title": "Find Customers Who Placed More Than 5 Orders (HAVING)",
+  "level": "Easy",
+  "topic": "GROUP BY + HAVING",
+  "url": "https://pyspark.in/challenges/find-customers-who-placed-more-than-5-orders-having/",
+  "twin": null
+ },
+ {
+  "n": 5,
+  "folder": "05-average-salary-by-department",
+  "title": "HR: Average Salary by Department",
+  "level": "Easy",
+  "topic": "Aggregation",
+  "url": "https://pyspark.in/challenges/hr-average-salary-by-department/",
+  "twin": null
+ },
+ {
+  "n": 6,
+  "folder": "06-orders-per-customer-per-month",
+  "title": "Number of Orders by Each Customer per Month",
+  "level": "Medium",
+  "topic": "Date functions",
+  "url": "https://pyspark.in/challenges/number-of-orders-by-each-customer-per-month/",
+  "twin": null
+ },
+ {
+  "n": 7,
+  "folder": "07-hires-per-year",
+  "title": "Count Employees Hired in Each Year",
+  "level": "Easy",
+  "topic": "Date functions",
+  "url": "https://pyspark.in/challenges/count-employees-hired-in-each-year/",
+  "twin": null
+ },
+ {
+  "n": 8,
+  "folder": "08-orders-with-customer-names",
+  "title": "Orders: List Orders With Customer Names (INNER JOIN)",
+  "level": "Easy",
+  "topic": "Joins (INNER)",
+  "url": "https://pyspark.in/challenges/orders-list-orders-with-customer-names-inner-join/",
+  "twin": null
+ },
+ {
+  "n": 9,
+  "folder": "09-customers-without-orders",
+  "title": "Customers Who Have Never Placed an Order",
+  "level": "Easy",
+  "topic": "Joins (anti join)",
+  "url": "https://pyspark.in/challenges/customers-who-have-never-placed-an-order/",
+  "twin": null
+ },
+ {
+  "n": 10,
+  "folder": "10-order-count-including-zero",
+  "title": "Count Orders Per Customer Including Zero",
+  "level": "Easy",
+  "topic": "Joins (LEFT) + COUNT",
+  "url": "https://pyspark.in/challenges/count-orders-per-customer-including-zero/",
+  "twin": null
+ },
+ {
+  "n": 11,
+  "folder": "11-employee-manager-self-join",
+  "title": "List Every Employee With Their Manager's Name (Self JOIN)",
+  "level": "Easy",
+  "topic": "Joins (self join)",
+  "url": "https://pyspark.in/challenges/list-every-employee-with-their-manager-s-name-self-join/",
+  "twin": null
+ },
+ {
+  "n": 12,
+  "folder": "12-above-department-average",
+  "title": "Find Employees Who Earn More Than Their Department Average",
+  "level": "Medium",
+  "topic": "Subquery / CTE vs window",
+  "url": "https://pyspark.in/challenges/find-employees-who-earn-more-than-their-department-average/",
+  "twin": null
+ },
+ {
+  "n": 13,
+  "folder": "13-sales-per-region-cte",
+  "title": "Total Sales per Region using CTEs",
+  "level": "Easy",
+  "topic": "CTEs",
+  "url": "https://pyspark.in/challenges/total-sales-per-region-using-ctes/",
+  "twin": null
+ },
+ {
+  "n": 14,
+  "folder": "14-second-highest-salary",
+  "title": "Second Highest Salary",
+  "level": "Easy",
+  "topic": "Subqueries / NULL handling",
+  "url": "https://pyspark.in/challenges/second-highest-salary/",
+  "twin": null
+ },
+ {
+  "n": 15,
+  "folder": "15-top-earner-per-department",
+  "title": "ROW_NUMBER: Find the Highest-Paid Employee in Each Department",
+  "level": "Easy",
+  "topic": "Window functions (ROW_NUMBER)",
+  "url": "https://pyspark.in/challenges/row-number-find-the-highest-paid-employee-in-each-department/",
+  "twin": null
+ },
+ {
+  "n": 16,
+  "folder": "16-rank-vs-dense-rank",
+  "title": "RANK vs DENSE_RANK: See the Difference Side by Side",
+  "level": "Easy",
+  "topic": "Window functions (RANK, DENSE_RANK)",
+  "url": "https://pyspark.in/challenges/rank-vs-dense-rank-see-the-difference-side-by-side/",
+  "twin": null
+ },
+ {
+  "n": 17,
+  "folder": "17-running-total",
+  "title": "Running Total of Daily Sales",
+  "level": "Easy",
+  "topic": "Window functions (running total)",
+  "url": "https://pyspark.in/challenges/running-total-of-daily-sales/",
+  "twin": "https://pyspark.in/challenges/running-total-of-daily-sales-pyspark/"
+ },
+ {
+  "n": 18,
+  "folder": "18-day-over-day-change",
+  "title": "Day-over-Day Change in Sales",
+  "level": "Easy",
+  "topic": "Window functions (LAG)",
+  "url": "https://pyspark.in/challenges/day-over-day-change-in-sales/",
+  "twin": "https://pyspark.in/challenges/day-over-day-change-in-sales-pyspark/"
+ },
+ {
+  "n": 19,
+  "folder": "19-seven-day-moving-average",
+  "title": "7-Day Moving Average of Sales",
+  "level": "Medium",
+  "topic": "Window functions (moving average)",
+  "url": "https://pyspark.in/challenges/7-day-moving-average-of-sales/",
+  "twin": "https://pyspark.in/challenges/7-day-moving-average-of-sales-pyspark/"
+ },
+ {
+  "n": 20,
+  "folder": "20-top-3-per-department",
+  "title": "Top 3 Highest-Paid Employees in Each Department",
+  "level": "Medium",
+  "topic": "Window functions (top N per group)",
+  "url": "https://pyspark.in/challenges/top-3-highest-paid-employees-in-each-department/",
+  "twin": null
+ },
+ {
+  "n": 21,
+  "folder": "21-remove-duplicate-customers",
+  "title": "Remove Duplicate Customer Records",
+  "level": "Medium",
+  "topic": "Deduplication",
+  "url": "https://pyspark.in/challenges/remove-duplicate-customer-records/",
+  "twin": "https://pyspark.in/challenges/remove-duplicate-customer-records-pyspark/"
+ },
+ {
+  "n": 22,
+  "folder": "22-quarterly-pivot",
+  "title": "Quarterly Sales Pivot by Product",
+  "level": "Medium",
+  "topic": "Pivoting (CASE WHEN / pivot)",
+  "url": "https://pyspark.in/challenges/quarterly-sales-pivot-by-product/",
+  "twin": null
+ },
+ {
+  "n": 23,
+  "folder": "23-month-over-month-growth",
+  "title": "Month-over-Month Growth Percentage",
+  "level": "Medium",
+  "topic": "Window functions (LAG) + percentages",
+  "url": "https://pyspark.in/challenges/month-over-month-growth-percentage/",
+  "twin": "https://pyspark.in/challenges/month-over-month-growth-percentage-pyspark/"
+ }
+]

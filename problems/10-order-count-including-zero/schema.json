@@ -1,0 +1,38 @@
+{
+ "customer": [
+  {
+   "name": "customer_id",
+   "type": "int"
+  },
+  {
+   "name": "customer_name",
+   "type": "string"
+  },
+  {
+   "name": "city",
+   "type": "string"
+  }
+ ],
+ "orders": [
+  {
+   "name": "order_id",
+   "type": "int"
+  },
+  {
+   "name": "customer_id",
+   "type": "int"
+  },
+  {
+   "name": "order_date",
+   "type": "date"
+  },
+  {
+   "name": "amount",
+   "type": "decimal(10,2)"
+  },
+  {
+   "name": "aspect",
+   "type": "string"
+  }
+ ]
+}

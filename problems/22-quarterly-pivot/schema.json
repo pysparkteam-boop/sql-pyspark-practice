@@ -1,0 +1,20 @@
+{
+ "sales": [
+  {
+   "name": "sales_id",
+   "type": "int"
+  },
+  {
+   "name": "product_id",
+   "type": "int"
+  },
+  {
+   "name": "quarter",
+   "type": "string"
+  },
+  {
+   "name": "amount",
+   "type": "decimal(10,2)"
+  }
+ ]
+}

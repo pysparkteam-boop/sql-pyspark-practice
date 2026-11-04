@@ -1,0 +1,8 @@
+employee_id,first_name,manager_name
+1,Alice,
+2,Bob,Alice
+3,Charlie,Alice
+4,Victor,Alice
+5,Diana,Alice
+6,Eve,Diana
+7,Frank,Alice

@@ -1,0 +1,24 @@
+{
+ "sales": [
+  {
+   "name": "order_id",
+   "type": "int"
+  },
+  {
+   "name": "customer_id",
+   "type": "int"
+  },
+  {
+   "name": "product_id",
+   "type": "int"
+  },
+  {
+   "name": "amount",
+   "type": "int"
+  },
+  {
+   "name": "order_date",
+   "type": "date"
+  }
+ ]
+}

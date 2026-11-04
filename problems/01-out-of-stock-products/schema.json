@@ -1,0 +1,66 @@
+{
+ "categories": [
+  {
+   "name": "category_id",
+   "type": "int"
+  },
+  {
+   "name": "category_name",
+   "type": "string"
+  }
+ ],
+ "order_items": [
+  {
+   "name": "item_id",
+   "type": "int"
+  },
+  {
+   "name": "product_id",
+   "type": "int"
+  },
+  {
+   "name": "quantity",
+   "type": "int"
+  },
+  {
+   "name": "unit_price",
+   "type": "decimal(10,2)"
+  },
+  {
+   "name": "order_date",
+   "type": "date"
+  }
+ ],
+ "product_reviews": [
+  {
+   "name": "review_id",
+   "type": "int"
+  },
+  {
+   "name": "product_id",
+   "type": "int"
+  },
+  {
+   "name": "rating",
+   "type": "decimal(3,1)"
+  }
+ ],
+ "products": [
+  {
+   "name": "product_id",
+   "type": "int"
+  },
+  {
+   "name": "product_name",
+   "type": "string"
+  },
+  {
+   "name": "category_id",
+   "type": "int"
+  },
+  {
+   "name": "stock_quantity",
+   "type": "int"
+  }
+ ]
+}

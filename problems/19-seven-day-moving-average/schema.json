@@ -1,0 +1,12 @@
+{
+ "daily_traffic": [
+  {
+   "name": "order_date",
+   "type": "date"
+  },
+  {
+   "name": "sales",
+   "type": "int"
+  }
+ ]
+}

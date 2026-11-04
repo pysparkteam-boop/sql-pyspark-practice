@@ -1,0 +1,9 @@
+tx_id,customer,amount
+1,"Alice","100"
+2,"Bob","abc"
+3,"Carol","250.50"
+4,"Dan",
+5,"Eve"," 500 "
+6,"Frank","N/A"
+7,"Grace","-75"
+8,"Henry","unknown"

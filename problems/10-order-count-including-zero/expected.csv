@@ -1,0 +1,5 @@
+customer_id,customer_name,city,order_count
+1,Krishna,Hyderabad,2
+2,Sudheer,Bangalore,1
+3,Atul,Pune,0
+4,Rahul,Hyderabad,2

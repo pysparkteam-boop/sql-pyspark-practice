@@ -1,0 +1,6 @@
+customer_id,customer_name,status,register_date
+1,"Krishna","Active",2024-05-01
+2,"Parvati","Active",2024-05-10
+3,"Atul","Inactive",2024-04-01
+4,"Pinki","Active",2024-05-20
+5,"Sudheer","Active",2024-04-01

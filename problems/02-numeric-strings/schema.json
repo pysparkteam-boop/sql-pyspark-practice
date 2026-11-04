@@ -1,0 +1,16 @@
+{
+ "transactions": [
+  {
+   "name": "tx_id",
+   "type": "int"
+  },
+  {
+   "name": "customer",
+   "type": "string"
+  },
+  {
+   "name": "amount",
+   "type": "string"
+  }
+ ]
+}

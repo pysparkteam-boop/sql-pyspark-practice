@@ -1,0 +1,9 @@
+customer_id,customer_name,email,phone
+101,"Alice","alice@example.net","555-3311"
+102,"Bob","bob@example.net","555-3322"
+103,"Alice","alice@example.net","555-3311"
+104,"Carol","carol@example.net","555-3333"
+105,"Bob","bob@example.net","555-3322"
+106,"Alice","alice@example.net","555-3311"
+107,"Dan","dan@example.net","555-3344"
+108,"Dan","dan@example.net","555-3399"

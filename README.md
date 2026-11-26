@@ -36,6 +36,15 @@ Java, if you don't have it: Ubuntu/Debian `sudo apt install openjdk-17-jre-headl
 
 **Tested so far:** Python 3.9.13 + Java 8 on Windows 10, from a clean virtual environment (`pip install -r requirements.txt`, then `pytest` and `run.py --all`). The GitHub Actions workflow runs Python 3.9, 3.10 and 3.11 with Java 17 on Ubuntu. Python 3.12 isn't supported by the pinned PySpark 3.5 on Windows.
 
+## Practise online (no install)
+
+Prefer not to set up Python and Java? The same problems, and many more, run in the browser on PySpark.in with instant grading:
+
+- [SQL practice problems](https://pyspark.in/sql-practice/): free SQL exercises, checked as you submit.
+- [SQL and PySpark coding challenges](https://pyspark.in/challenges/): easy to hard, most of them free.
+- [SQL vs PySpark side by side](https://pyspark.in/learn/sql-vs-pyspark/): the guide this pack accompanies.
+- [Online PySpark compiler](https://pyspark.in/pyspark-compiler/): run PySpark without installing anything (free Google sign-in).
+
 ## Solve a problem
 
 1. Open a problem folder and read its `README.md` (task, tables, expected output).
